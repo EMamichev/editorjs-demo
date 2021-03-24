@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/EMamichev/editorjs-demo/static/css/main.8ec71a56.chunk.css",
-    "main.js": "/EMamichev/editorjs-demo/static/js/main.6ccb2140.chunk.js",
-    "main.js.map": "/EMamichev/editorjs-demo/static/js/main.6ccb2140.chunk.js.map",
-    "runtime-main.js": "/EMamichev/editorjs-demo/static/js/runtime-main.99663f86.js",
-    "runtime-main.js.map": "/EMamichev/editorjs-demo/static/js/runtime-main.99663f86.js.map",
-    "static/js/2.4cf9f048.chunk.js": "/EMamichev/editorjs-demo/static/js/2.4cf9f048.chunk.js",
-    "static/js/2.4cf9f048.chunk.js.map": "/EMamichev/editorjs-demo/static/js/2.4cf9f048.chunk.js.map",
-    "static/js/3.232b0af1.chunk.js": "/EMamichev/editorjs-demo/static/js/3.232b0af1.chunk.js",
-    "static/js/3.232b0af1.chunk.js.map": "/EMamichev/editorjs-demo/static/js/3.232b0af1.chunk.js.map",
-    "index.html": "/EMamichev/editorjs-demo/index.html",
-    "static/css/main.8ec71a56.chunk.css.map": "/EMamichev/editorjs-demo/static/css/main.8ec71a56.chunk.css.map",
-    "static/js/2.4cf9f048.chunk.js.LICENSE.txt": "/EMamichev/editorjs-demo/static/js/2.4cf9f048.chunk.js.LICENSE.txt"
+    "main.css": "/editorjs-demo/static/css/main.8ec71a56.chunk.css",
+    "main.js": "/editorjs-demo/static/js/main.6ccb2140.chunk.js",
+    "main.js.map": "/editorjs-demo/static/js/main.6ccb2140.chunk.js.map",
+    "runtime-main.js": "/editorjs-demo/static/js/runtime-main.34c47a07.js",
+    "runtime-main.js.map": "/editorjs-demo/static/js/runtime-main.34c47a07.js.map",
+    "static/js/2.4cf9f048.chunk.js": "/editorjs-demo/static/js/2.4cf9f048.chunk.js",
+    "static/js/2.4cf9f048.chunk.js.map": "/editorjs-demo/static/js/2.4cf9f048.chunk.js.map",
+    "static/js/3.232b0af1.chunk.js": "/editorjs-demo/static/js/3.232b0af1.chunk.js",
+    "static/js/3.232b0af1.chunk.js.map": "/editorjs-demo/static/js/3.232b0af1.chunk.js.map",
+    "index.html": "/editorjs-demo/index.html",
+    "static/css/main.8ec71a56.chunk.css.map": "/editorjs-demo/static/css/main.8ec71a56.chunk.css.map",
+    "static/js/2.4cf9f048.chunk.js.LICENSE.txt": "/editorjs-demo/static/js/2.4cf9f048.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.99663f86.js",
+    "static/js/runtime-main.34c47a07.js",
     "static/js/2.4cf9f048.chunk.js",
     "static/css/main.8ec71a56.chunk.css",
     "static/js/main.6ccb2140.chunk.js"
