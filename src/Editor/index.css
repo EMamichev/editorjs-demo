@@ -1,0 +1,9 @@
+.codex-editor__redactor {
+    padding-bottom: 50px !important;
+}
+
+.button {
+    display: block;
+    padding: 5px 10px;
+    margin: 0 auto;
+}

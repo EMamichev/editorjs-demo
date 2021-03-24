@@ -1,0 +1,17 @@
+.block {
+    padding: 10px;
+    border-radius: 6px;
+    background: #eee;
+}
+
+.block__title {
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.block__form input {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px;
+}
